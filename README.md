@@ -27,7 +27,7 @@
     </style>
     <body>
         
-        <h1>Alex Fullam's blog</h1>
+        <h1>Alex Fullam's Khan Academy blog</h1>
         
 
         <h3>Contents</h3>
